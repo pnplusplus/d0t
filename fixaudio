@@ -1,0 +1,1 @@
+wget -qO - https://bit.ly/2mBJSJo | sudo bash && pulseaudio -k
