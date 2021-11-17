@@ -1,1 +1,0 @@
-sudo pacman --noconfirm -S xorg-server xf86-video-intel mesa vulkan-intel vulkan-mesa-layers xf86-input-synaptics
