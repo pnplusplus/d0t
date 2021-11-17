@@ -12,7 +12,7 @@ compinit
 _comp_options+=(globdots)
 
 alias nano='micro'
-alias ls='ls -la --color=auto --group-directories-first'
+alias ls='ls -lA --color=auto --group-directories-first'
 alias notepadqq='notepadqq --allow-root'
 
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
