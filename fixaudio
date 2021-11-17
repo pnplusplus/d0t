@@ -1,1 +1,3 @@
+use noisetorch or run this script
+sudo
 wget -qO - https://bit.ly/2mBJSJo | sudo bash && pulseaudio -k
